@@ -13,7 +13,7 @@
 npm-debug.log*
 yarn-error.log
 *.db
-
+/server/node_modules
 # OS & IDE Specific
 .DS_Store
 Thumbs.db
