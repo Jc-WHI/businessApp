@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+
+# Secrets
+.env
+/server/.env
+/client/.env
+
+# Build & Log Files
+/client/dist
+/client/build
+*.log
+npm-debug.log*
+yarn-error.log
+*.db
+
+# OS & IDE Specific
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
